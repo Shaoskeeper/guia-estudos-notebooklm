@@ -309,3 +309,7 @@ Um índice é uma estrutura auxiliar (geralmente uma **B-Tree**) que permite ao 
 ## 📌 Sobre este projeto
 
 Projeto desenvolvido como parte do desafio de prático da DIO sobre uso do NotebookLM como ferramenta de aprendizagem ativa.
+
+---
+
+> 📌 **Nota:** ao longo do estudo, adicionei outras fontes complementares à base do NotebookLM (como material acadêmico e artigos técnicos sobre indexação e otimização de consultas), que aparecem citadas em algumas respostas das seções abaixo. As 5 fontes listadas na tabela acima são as **principais** selecionadas para este caderno temático.
